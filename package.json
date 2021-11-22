@@ -1,0 +1,16 @@
+{
+  "name": "task-manager-demo-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "eslint": "eslint src/",
+    "test": "npm run eslint"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-htmlacademy": "5.0.0"
+  },
+  "engines": {
+    "node": "16"
+  }
+}
